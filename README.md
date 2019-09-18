@@ -2,6 +2,8 @@
 
 how to use:
 
+install necessary libraries
+
 type notes separated into lines in notes.txt
 
 run python file
